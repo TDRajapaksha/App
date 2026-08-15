@@ -41,13 +41,13 @@ This application simulates a real-world e-commerce environment. Users can browse
 
 | Login & Registration | Home & Browsing |
 | :---: | :---: |
-| ![Login](screenshots/login.png) | ![Home](screenshots/home.png) |
+| ![Login](SS/LOGIN.png) | ![Home](SS/MAIN.png) |
 | **Product Details & Cart** | **Checkout & Orders** |
-| ![Product Details](screenshots/product_details.png) | ![Cart Checkout](screenshots/cart_checkout.png) |
+| ![Product Details](SS/Product.png) | ![Cart Checkout](SS/CART.png) |
 | **Profile & Settings** | **Help & Support** |
-| ![Profile](screenshots/profile.png) | ![Help & Support](screenshots/help_support.png) |
+| ![Profile](SS/profile.png) | ![Help & Support](SS/Support.png) |
 | **Address Management** | **Supabase Dashboard** |
-| ![Address Form](screenshots/address_form.png) | ![Supabase Dashboard](screenshots/supabase_dashboard.png) |
+| ![Address Form](SS/Address.png) | ![Supabase Dashboard](SS/Supabase.png) |
 
 ---
 
