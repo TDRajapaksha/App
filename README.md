@@ -1,9 +1,5 @@
 # 🎨 METAL ART - Handcrafted Metal Art E-Commerce App
 
-![Flutter](https://img.shields.io/badge/Flutter-3.x-blue?logo=flutter)
-![Dart](https://img.shields.io/badge/Dart-3.x-blue?logo=dart)
-![Supabase](https://img.shields.io/badge/Supabase-Backend-3ecf8e?logo=supabase)
-
 **METAL ART** is a fully functional, cross-platform e-commerce mobile application built with **Flutter** and **Dart**, backed by **Supabase** as the BaaS (Backend-as-a-Service). The app serves as an online marketplace for unique, handcrafted steel and metal art pieces, providing a seamless shopping experience from browsing to checkout.
 
 ---
