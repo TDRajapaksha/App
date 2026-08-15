@@ -1,0 +1,5 @@
+package com.example.gymmart
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity : FlutterActivity()
